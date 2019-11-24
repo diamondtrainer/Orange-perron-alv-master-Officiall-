@@ -1,0 +1,42 @@
+C:\Users\pepti\source\repos\Orange perron chido\bin\Debug\Orange perron chido.exe.config
+C:\Users\pepti\source\repos\Orange perron chido\bin\Debug\Orange perron chido.exe
+C:\Users\pepti\source\repos\Orange perron chido\bin\Debug\Orange perron chido.pdb
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange perron chido.csprojAssemblyReference.cache
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange_perron_chido.Properties.Resources.resources
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange perron chido.csproj.GenerateResource.cache
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange perron chido.exe
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange perron chido.pdb
+C:\Users\pepti\source\repos\Orange perron chido\bin\Debug\Files\Demo.csv
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange_perron_chido.Form1.resources
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange_perron_chido.StatisticAnalysisForm.resources
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange_perron_chido.AutomaticKnowledge.resources
+C:\Users\pepti\source\repos\Orange perron chido\obj\Debug\Orange_perron_chido.DataCleaning.resources
+C:\Users\pepti\Source\Repos\Orange-perron-alv\bin\Debug\Files\Demo.csv
+C:\Users\pepti\Source\Repos\Orange-perron-alv\bin\Debug\Orange perron chido.exe.config
+C:\Users\pepti\Source\Repos\Orange-perron-alv\bin\Debug\Orange perron chido.exe
+C:\Users\pepti\Source\Repos\Orange-perron-alv\bin\Debug\Orange perron chido.pdb
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange perron chido.csprojAssemblyReference.cache
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange_perron_chido.AutomaticKnowledge.resources
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange_perron_chido.DataCleaning.resources
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange_perron_chido.Form1.resources
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange_perron_chido.Properties.Resources.resources
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange_perron_chido.StatisticAnalysisForm.resources
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange perron chido.csproj.GenerateResource.cache
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange perron chido.exe
+C:\Users\pepti\Source\Repos\Orange-perron-alv\obj\Debug\Orange perron chido.pdb
+C:\Users\pepti\source\repos\Orange-perron-alv\obj\Debug\Orange_perron_chido.OneRAK.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\bin\Debug\Files\Demo.csv
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\bin\Debug\Orange perron chido.exe.config
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\bin\Debug\Orange perron chido.exe
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\bin\Debug\Orange perron chido.pdb
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange perron chido.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.AutomaticKnowledge.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.Bivariable.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.DataCleaning.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.Form1.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.OneRAK.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.Properties.Resources.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange_perron_chido.StatisticAnalysisForm.resources
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange perron chido.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange perron chido.exe
+C:\Users\manue\Desktop\Orange-perron-alv-master(Officiall)\Orange-perron-alv-master\obj\Debug\Orange perron chido.pdb

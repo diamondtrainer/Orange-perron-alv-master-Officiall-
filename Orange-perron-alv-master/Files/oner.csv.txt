@@ -1,0 +1,6 @@
+uno,dos,tres,cuatro
+codi1,andres,perro,play
+codi1,andres,gato,play
+codi1,abigail,perro,play
+codi2,abigail,gato,noplay
+codi2,Leticia,gato,play
